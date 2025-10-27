@@ -1,0 +1,37 @@
+#db-tables {
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+#table-data table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#table-data th, #table-data td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#table-data th {
+    background-color: #f4f4f4;
+    text-align: left;
+}
+
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.page-button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.page-button:hover {
+    background-color: #005177;
+}
